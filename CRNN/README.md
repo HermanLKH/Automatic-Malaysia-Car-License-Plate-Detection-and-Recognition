@@ -22,7 +22,7 @@ cd Automatic-Malaysia-Car-License-Plate-Detection-and-Recognition/CRNN
 
 Note: CUDA wheels for PyTorch are pulled automatically if a supported GPU is detected.
 
-## 3 Grab checkpoints & datasets
+## 3 Install checkpoints & datasets
 
 Everything is hosted on HuggingFace:
 ```bash
@@ -40,9 +40,8 @@ CRNN/
 │   ├── train/
 │   ├── val/
 │   └── test/
-└── notebooks/
-    ├── train_crnn_attention_with_!_augment.ipynb
-    └── test_crnn_attention_with_!_augment.ipynb
+└── train_crnn_attention_with_!_augment.ipynb
+└── test_crnn_attention_with_!_augment.ipynb
 
 ```
 
