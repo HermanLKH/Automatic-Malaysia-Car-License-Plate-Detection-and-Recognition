@@ -1,0 +1,12 @@
+{
+  "project": "vehicle-license-plate-detection",
+  "name": "baseline\\default",
+  "data": "datasets/Vehicle-License-Plate-Detection-5\\data.yaml",
+  "epochs": 300,
+  "imgsz": 640,
+  "batch": 16,
+  "device": 0,
+  "patience": 50,
+  "cache": "disk",
+  "workers": 8
+}
