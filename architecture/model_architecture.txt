@@ -1,1 +1,0 @@
-vehicle-license-plate-detection\baseline\default\weights/best.onnx
