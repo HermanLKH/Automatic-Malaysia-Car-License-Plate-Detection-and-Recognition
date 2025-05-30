@@ -22,8 +22,8 @@ Click into each subdirectory for step-by-step instructions on training and testi
 
 ## Resources
 
-- **Live App**: [Try the Hugging Face Space](LINK_TO_HUGGINGFACE_APP)  
-- **Paper**: [View the full report here](LINK_TO_PAPER)  
-- **Demo Video**: [Watch the system in action](LINK_TO_DEMO_VIDEO)  
+- **Live App**: [Try the Hugging Face Space](https://huggingface.co/spaces/hermanlkh/MalaysiaALPR)
+- **Report**: [View the full report here](https://drive.google.com/file/d/1MboxH52VK3PkceWKifzyutCZuayyjl0C/view?usp=sharing)
+- **Video Presentation**: [Watch the system in action](https://drive.google.com/file/d/1DdmPxM4dUoIaVN9FjRlzXrhciUg29RTb/view?usp=sharing)  
 
 ---
