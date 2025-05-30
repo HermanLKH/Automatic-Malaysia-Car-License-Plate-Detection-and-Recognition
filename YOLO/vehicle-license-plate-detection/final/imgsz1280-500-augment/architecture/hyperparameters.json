@@ -1,0 +1,16 @@
+{
+  "project": "vehicle-license-plate-detection",
+  "name": "final\\imgsz1280-500-augment-n",
+  "data": "datasets/Vehicle-License-Plate-Detection\\data.yaml",
+  "epochs": 500,
+  "imgsz": 1280,
+  "batch": 16,
+  "device": 0,
+  "patience": 50,
+  "cache": "disk",
+  "workers": 8,
+  "hsv_v": 0.2,
+  "degrees": 15.0,
+  "flipud": 0.25,
+  "fliplr": 0.25
+}
