@@ -1,0 +1,12 @@
+{
+  "project": "vehicle-license-plate-detection",
+  "name": "near-complete\\imgsz640",
+  "data": "datasets/Vehicle-License-Plate-Detection\\data.yaml",
+  "epochs": 300,
+  "imgsz": 640,
+  "batch": 16,
+  "device": 0,
+  "patience": 50,
+  "cache": "disk",
+  "workers": 8
+}
